@@ -73,7 +73,7 @@ refrigeratorHeader.classList.add("parent")
 
 //make an image with javascript
 const refrigeratorImage = document.createElement("img")
-refrigeratorImage.setAttribute("src","download-1.jpg")
+refrigeratorImage.setAttribute("src","download.jpg")
 refrigeratorImage.setAttribute("alt","pantry")
 //append the image to the appropriate div with chosenDiv.append(image)(no qoutes!!)
 const refrigeratorList = document.createElement("div")
