@@ -1,0 +1,17 @@
+#pantry{
+    background-color: aqua;
+}
+.list{
+    display: inline-block;
+    
+}
+.pantryList{
+    background-color: aqua;
+    
+}
+h2{
+    margin: 0;
+}
+.refrigeratorList{
+    background-color: yellow;
+}
